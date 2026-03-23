@@ -2,6 +2,7 @@
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://ohno.github.io/MyPkg56.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://ohno.github.io/MyPkg56.jl/dev/)
+![Citation](https://img.shields.io/badge/citation-BibTeX-778899)
 [![License](https://img.shields.io/github/license/ohno/MyPkg56.jl)](LICENSE)
 [![Build Status](https://github.com/ohno/MyPkg56.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ohno/MyPkg56.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/ohno/MyPkg56.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/ohno/MyPkg56.jl)
