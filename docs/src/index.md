@@ -48,10 +48,7 @@ For contribution and maintenance workflows, see the [Developer Guide](developer.
 Use [CITATION.bib](https://github.com/ohno/MyPkg56.jl/blob/main/CITATION.bib) to cite this package.
 
 ```@example
-file = open("../../CITATION.bib", "r") # hide
-text = Base.read(file, String) # hide
-close(file) # hide
-println(text) # hide
+println(Base.read("../../CITATION.bib", String)) # hide
 ```
 
 ## Acknowledgments
